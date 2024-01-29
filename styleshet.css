@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+  }
+  
+  .bgimg {
+    background-position: center;
+    background-size: cover;
+    
+    min-height: 75%;
+  }
+  
+  .menu {
+    display: none;
+  }
+  h4{
+    font-family: "Inconsolata", sans-serif;
+  }
+  h5 {
+    font-family: "Inconsolata", sans-serif;
+  }
+h3{
+  font-family: "Inconsolata", sans-serif;
+}
+.w3-container{
+  float: center;
+}
